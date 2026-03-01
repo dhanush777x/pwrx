@@ -1,0 +1,15 @@
+[project]
+name = "pwrx"
+version = "0.1.0"
+description = "Modern Linux Power Management TUI"
+authors = [{ name = "Dhanush S M" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "textual",
+    "rich",
+    "psutil"
+]
+
+[project.scripts]
+pwrx = "power_manager.cli:main"
