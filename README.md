@@ -57,7 +57,7 @@
 ### From source
 
 ```bash
-git clone https://github.com/Dhanush-777x/pwrx.git
+git clone https://github.com/dhanush777x/pwrx.git
 cd pwrx
 pipx install .
 ```
@@ -153,5 +153,5 @@ Released under the [MIT License](LICENSE) - free to use, modify, and distribute.
 ## Note
 
 This project was vibe coded for my personal requirements.
-If you run into issues or have feature requests, open one on the [Issues](https://github.com/Dhanush-777x/pwrx/issues) page.
-Improvements and fixes are welcome - feel free to raise a [PR](https://github.com/Dhanush-777x/pwrx/pulls).
+If you run into issues or have feature requests, open one on the [Issues](https://github.com/dhanush777x/pwrx/issues) page.
+Improvements and fixes are welcome - feel free to raise a [PR](https://github.com/dhanush777x/pwrx/pulls).
